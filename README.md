@@ -2,8 +2,8 @@
 <h3 align="center">Junior dev with a love of learning based in Melbourne, Australia</h3>
 
 - Python charmer 🐍  
+- Web dev
 - Cloud enthusiast (AWS) ☁️
-- MacOS tinkerer 
 - [Reach out for ☕️ on Linkedin](https://lewisgentle.com)
 
 <h3 align="left">Languages and Tools:</h3>
