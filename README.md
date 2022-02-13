@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lewis</h1>
 <h3 align="center">Junior dev with a love of learning based in Melbourne, Australia</h3>
 
-- Python charmer 🐍  
+- Python, Django dev
 - Cloud enthusiast (AWS) ☁️
 - Web development 🕸
 - [Reach out for ☕️ on Linkedin](https://lewisgentle.com)
